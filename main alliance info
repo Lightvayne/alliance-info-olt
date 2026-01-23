@@ -1,6 +1,11 @@
-Alliance info test
-data here
-
-more data here
-test again
-
+{
+ "embeds": [
+  {
+   "title": "Test Name",
+   "description": "Description",
+   "footer": {
+    "text": "Footer text"
+   }
+  }
+ ]
+}
